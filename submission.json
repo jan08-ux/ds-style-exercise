@@ -1,0 +1,8 @@
+{
+  "prompt": "The interlacing strapwork bands are thick, carbon black, and perfectly flat matte — zero bevel, zero highlight, zero raised 3D effect, flat as ink on paper.\n\nA museum-quality flat illustration of a 14th-century Timurid Islamic geometric tilework floor panel depicting k-means clustering. Viewed directly from above like a tile floor, not a carpet or medallion. The geometric pattern tiles uniformly across the entire image — every quadrant looks identical, there is no center, no focal star, no medallion. The pattern would continue infinitely past all four edges if extended.\n\nThe black strapwork divides the surface into five flat-color cluster regions. Each region: single completely flat color, zero texture, zero grain, zero shading, zero gradients — like glazed ceramic tile, one solid color per region. Colors: lapis lazuli blue, saffron gold, teal turquoise, deep brick terracotta, ivory. No pink, no salmon, no pastel.\n\nGold eight-pointed star centroids in each region. Small circular darker dots as data points. Ornate border. Kufic cartouche 'K-MEANS CLUSTERING.' Strictly flat 2D, zero depth, zero photorealism. Aspect ratio 4:3.",
+  "model": "DALL-E 3",
+  "concept": "K-means clustering",
+  "tradition_name": "Islamic geometric tilework (Timurid and Safavid schools)",
+  "tradition_period": "14th–17th century",
+  "tradition_approach": "Girih strapwork interlacing bands as cluster boundaries; flat unmodulated Timurid tile colors per cluster (lapis, turquoise, terracotta, gold, ivory); gold eight-pointed star polygons marking centroids; all-over periodic tessellation; no central medallion."
+}
